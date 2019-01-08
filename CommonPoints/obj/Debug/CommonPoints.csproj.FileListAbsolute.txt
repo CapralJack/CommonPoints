@@ -1,0 +1,13 @@
+D:\Euro\CommonPoints\CommonPoints\CommonPoints\bin\Debug\CommonPoints.exe.config
+D:\Euro\CommonPoints\CommonPoints\CommonPoints\bin\Debug\CommonPoints.exe
+D:\Euro\CommonPoints\CommonPoints\CommonPoints\bin\Debug\CommonPoints.pdb
+D:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.csprojResolveAssemblyReference.cache
+D:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.exe
+D:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.pdb
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\bin\Debug\CommonPoints.exe.config
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\bin\Debug\CommonPoints.exe
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\bin\Debug\CommonPoints.pdb
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.csprojAssemblyReference.cache
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.csproj.CoreCompileInputs.cache
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.exe
+E:\Euro\CommonPoints\CommonPoints\CommonPoints\obj\Debug\CommonPoints.pdb
